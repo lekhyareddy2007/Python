@@ -16,3 +16,7 @@ for i in range(600):
         color("blue")
     goto(0,0)
 done()
+
+print("hello Python")
+
+
